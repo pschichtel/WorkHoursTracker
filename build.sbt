@@ -6,7 +6,7 @@ scalaVersion := "2.13.1"
 
 libraryDependencies ++= Seq(
     "com.github.hypfvieh" % "dbus-java" % "3.2.0",
-    "org.slf4j" % "slf4j-simple" % "1.7.29"
+    "org.slf4j" % "slf4j-simple" % "2.0.16"
 )
 
 mainClass := Some("tel.schich.workhourstracker.Main")

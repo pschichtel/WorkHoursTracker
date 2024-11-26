@@ -5,7 +5,7 @@ version := "0.1"
 scalaVersion := "2.13.1"
 
 libraryDependencies ++= Seq(
-    "com.github.hypfvieh" % "dbus-java" % "3.2.0",
+    "com.github.hypfvieh" % "dbus-java" % "3.3.2",
     "org.slf4j" % "slf4j-simple" % "1.7.29"
 )
 

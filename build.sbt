@@ -2,7 +2,7 @@ name := "WorkHoursTracker"
 
 version := "0.1"
 
-scalaVersion := "2.13.1"
+scalaVersion := "2.13.15"
 
 libraryDependencies ++= Seq(
     "com.github.hypfvieh" % "dbus-java" % "3.2.0",
